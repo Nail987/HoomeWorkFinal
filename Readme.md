@@ -9,3 +9,4 @@
 *Блок схема примерной работы кода
 
 ![Блок схема](Blok.jpg)
+![Blok](https://user-images.githubusercontent.com/122912162/224818646-5485eaab-bdf3-4d32-980d-0f4141d5fcf4.jpg)
